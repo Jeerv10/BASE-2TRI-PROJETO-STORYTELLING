@@ -26,8 +26,7 @@ const perguntas = [
                 afirmacao: "Fazia um tempo que não via o Mendigo... A gente botou o papo em dia, trocamo ideia. Ele continua enigmático como sempre, não mudou nadinha."
             },
             {
-                texto: "Ignorá-lo, você não tem tempo para distrações bestas.
-",
+                texto: "Ignorá-lo, você não tem tempo para distrações bestas.",
                 afirmacao: "Depois de todos esses anos ele surge agora? Do nada? Não, não posso permitir minha cabeça continuar pregando essas peças em mim."
             }
         ]
